@@ -9,7 +9,7 @@ export default function TechStack() {
     return (
 
         <div className="mt-52 sm:mt-80" id="technology">
-            <h1 className="text-xl sm:text-2xl font-bold tracking-tight text-gray-600">
+            <h1 className="text-xl sm:text-2xl font-bold tracking-tight text-grey-900">
                 My Tech Stack
             </h1>
             <div className="flex flex-col sm:flex-row gap-4 sm:gap-15 mt-10">

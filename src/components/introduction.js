@@ -14,7 +14,7 @@ export default function Introduction() {
                     Fullstack Developer
                 </h1>
                 <p className="mt-6 text-lg leading-9 text-gray-600">
-                    Hi, my name is Patryk Antonik. I am a fullstack developer with a passion for creating and developing
+                    Hi, my name is Patryk Antonik. I am a fullstack developer with a&#160;passion for creating and developing
                     web applications.
                     I have experience with technologies like React, Django and SQL.
                 </p>
@@ -35,9 +35,9 @@ export default function Introduction() {
                 </div>
             </div>
 
-            <div className="flex justify-center w-full">
+            <div className="flex justify-center">
                 <img
-                    className="rounded-3xl shadow-lg h-80 w-auto w-full"
+                    className="rounded-3xl shadow-lg h-80 w-80 sm:h-96 sm:w-96  object-cover"
                     src={profile_photo}
                     alt="Profile"
                 />
