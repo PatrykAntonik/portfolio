@@ -7,7 +7,7 @@ function Navbar() {
 
     return (
         <header
-            className="flex flex-wrap sm:justify-start bg-white sm:flex-nowrap z-50 w-full text-md py-5 sticky top-0">
+            className="flex flex-wrap sm:justify-start bg-black text-white sm:flex-nowrap z-50 w-full text-md py-5 sticky top-0">
             <nav className="max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between">
                 <div className="flex items-center justify-between">
                     <a className="flex-none text-xl font-semibold">Patryk Antonik</a>
@@ -41,13 +41,13 @@ function Navbar() {
                     <div
                         className="flex flex-col gap-5 mt-5 sm:flex-row sm:items-center sm:justify-end sm:mt-0 sm:ps-5"
                     >
-                        <a className="font-semibold text-black hover:text-gray-400"
+                        <a className="font-semibold text-white hover:text-gray-400"
                            href="#" aria-current="page">Home</a>
-                        <a className="font-semibold text-black hover:text-gray-400"
+                        <a className="font-semibold text-white hover:text-gray-400"
                            href="#about">About</a>
-                        <a className="font-semibold text-black hover:text-gray-400"
+                        <a className="font-semibold text-white hover:text-gray-400"
                            href="#projects">Projects</a>
-                        <a className="font-semibold text-black hover:text-gray-400"
+                        <a className="font-semibold text-white hover:text-gray-400"
                            href="#contact">Contact</a>
                     </div>
                 </div>
