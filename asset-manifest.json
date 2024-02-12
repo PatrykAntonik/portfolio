@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6833c5b3.css",
-    "main.js": "/portfolio/static/js/main.32da3fb2.js",
+    "main.js": "/portfolio/static/js/main.c92e51ac.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/ekranDonacjiLista.jpg": "/portfolio/static/media/ekranDonacjiLista.935015e6352792233125.jpg",
     "static/media/about.png": "/portfolio/static/media/about.82d5feb2f50edb1f856e.png",
     "static/media/profile_photo.jpg": "/portfolio/static/media/profile_photo.0cbe946cb701bcec9f01.jpg",
-    "static/media/cv_Patryk_Antonik_english.pdf": "/portfolio/static/media/cv_Patryk_Antonik_english.f966be5696fced9d2ef9.pdf",
+    "static/media/cv_Patryk_Antonik_english.pdf": "/portfolio/static/media/cv_Patryk_Antonik_english.cdfcb16202f14b2d1e12.pdf",
     "static/media/socialmedia.jpg": "/portfolio/static/media/socialmedia.87e015994977da5b7817.jpg",
     "static/media/backend.png": "/portfolio/static/media/backend.489a4f4c889022725b48.png",
     "static/media/location.png": "/portfolio/static/media/location.4ba2450b71e973e57b09.png",
@@ -15,11 +15,11 @@
     "static/media/docker.png": "/portfolio/static/media/docker.db2ba8fe4a78d4867196.png",
     "index.html": "/portfolio/index.html",
     "main.6833c5b3.css.map": "/portfolio/static/css/main.6833c5b3.css.map",
-    "main.32da3fb2.js.map": "/portfolio/static/js/main.32da3fb2.js.map",
+    "main.c92e51ac.js.map": "/portfolio/static/js/main.c92e51ac.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6833c5b3.css",
-    "static/js/main.32da3fb2.js"
+    "static/js/main.c92e51ac.js"
   ]
 }
