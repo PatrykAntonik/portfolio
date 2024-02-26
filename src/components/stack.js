@@ -48,6 +48,8 @@ export default function TechStack() {
                         "Git",
                         "GitHub",
                         "GitLab",
+                        "Postman",
+                        "Figma",
                     ]}
                 />
 
