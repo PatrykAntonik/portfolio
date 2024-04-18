@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7b79b285.css",
-    "main.js": "/portfolio/static/js/main.ef18c4c1.js",
+    "main.js": "/portfolio/static/js/main.fef36d02.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/ekranDonacjiLista.jpg": "/portfolio/static/media/ekranDonacjiLista.935015e6352792233125.jpg",
     "static/media/about.png": "/portfolio/static/media/about.82d5feb2f50edb1f856e.png",
@@ -16,11 +16,11 @@
     "static/media/docker.png": "/portfolio/static/media/docker.db2ba8fe4a78d4867196.png",
     "index.html": "/portfolio/index.html",
     "main.7b79b285.css.map": "/portfolio/static/css/main.7b79b285.css.map",
-    "main.ef18c4c1.js.map": "/portfolio/static/js/main.ef18c4c1.js.map",
+    "main.fef36d02.js.map": "/portfolio/static/js/main.fef36d02.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b79b285.css",
-    "static/js/main.ef18c4c1.js"
+    "static/js/main.fef36d02.js"
   ]
 }
