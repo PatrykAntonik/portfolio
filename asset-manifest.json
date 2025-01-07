@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7b79b285.css",
-    "main.js": "/portfolio/static/js/main.c8ac7ec5.js",
+    "main.css": "/portfolio/static/css/main.7e7288d9.css",
+    "main.js": "/portfolio/static/js/main.f518ab6d.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/JobMarket2.png": "/portfolio/static/media/JobMarket2.9a32b0ffd6545c70acb3.png",
     "static/media/ekranDonacjiLista.jpg": "/portfolio/static/media/ekranDonacjiLista.935015e6352792233125.jpg",
     "static/media/about.png": "/portfolio/static/media/about.82d5feb2f50edb1f856e.png",
     "static/media/profile_photo.jpg": "/portfolio/static/media/profile_photo.0cbe946cb701bcec9f01.jpg",
-    "static/media/cv_Patryk_Antonik_english.pdf": "/portfolio/static/media/cv_Patryk_Antonik_english.52e0592fa15fd31dc016.pdf",
+    "static/media/cv_Patryk_Antonik_english.pdf": "/portfolio/static/media/cv_Patryk_Antonik_english.cdfcb16202f14b2d1e12.pdf",
     "static/media/socialmedia.jpg": "/portfolio/static/media/socialmedia.87e015994977da5b7817.jpg",
-    "static/media/CancerClassification.jpg": "/portfolio/static/media/CancerClassification.9cdcd4759209f1f461a4.jpg",
     "static/media/backend.png": "/portfolio/static/media/backend.489a4f4c889022725b48.png",
     "static/media/location.png": "/portfolio/static/media/location.4ba2450b71e973e57b09.png",
     "static/media/resume.png": "/portfolio/static/media/resume.b00e9ef74a2efc798c33.png",
+    "static/media/classification.png": "/portfolio/static/media/classification.f5d200dc1e260528a75e.png",
+    "static/media/github_light.png": "/portfolio/static/media/github_light.64ea3c9ba64a54940bad.png",
     "static/media/frontend.png": "/portfolio/static/media/frontend.f48724bb1062570b16cf.png",
     "static/media/docker.png": "/portfolio/static/media/docker.db2ba8fe4a78d4867196.png",
     "index.html": "/portfolio/index.html",
-    "main.7b79b285.css.map": "/portfolio/static/css/main.7b79b285.css.map",
-    "main.c8ac7ec5.js.map": "/portfolio/static/js/main.c8ac7ec5.js.map",
+    "main.7e7288d9.css.map": "/portfolio/static/css/main.7e7288d9.css.map",
+    "main.f518ab6d.js.map": "/portfolio/static/js/main.f518ab6d.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b79b285.css",
-    "static/js/main.c8ac7ec5.js"
+    "static/css/main.7e7288d9.css",
+    "static/js/main.f518ab6d.js"
   ]
 }
